@@ -21,4 +21,5 @@ from top_jobs
 inner join skills_job_dim on top_jobs.job_id = skills_job_dim.job_id
 inner join skills_dim on skills_dim.skill_id=skills_job_dim.skill_id
 
+   -- query 2
     -- gives me the best paying jobs and skills that i need to master for it 

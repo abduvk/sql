@@ -96,7 +96,7 @@ LIMIT 10;
 
 ### 2. Skills Required for Top Paying Jobs
 
-**Objective:** Determine which skills employers seek for the highest-paying Data Analyst positions.
+**Objective:** Determine which skills employers seek for the highest-paying Data Analyst positions..
 
 **SQL Concepts Used:** CTEs, `INNER JOIN`, Filtering
 

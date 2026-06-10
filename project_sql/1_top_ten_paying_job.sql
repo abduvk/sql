@@ -12,3 +12,4 @@ and jb.job_title_short = 'Data Analyst'
 and job_location = 'Anywhere'
 order by jb.salary_year_avg desc
 limit 10
+--query 1
